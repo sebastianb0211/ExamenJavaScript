@@ -17,4 +17,8 @@ function poner() {
     botonSegundo.style.alignItems = "center";
   
   }
+
+  
+
+
   
